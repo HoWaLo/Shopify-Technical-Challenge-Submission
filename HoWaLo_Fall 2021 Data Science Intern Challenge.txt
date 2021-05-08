@@ -19,7 +19,10 @@ On Shopify, we have exactly 100 sneaker shops, and each of these shops sells onl
 
 
 1. Think about what could be going wrong with our calculation. Think about a better way to evaluate this data. 
-From the information in the dataset, I can assume that the AOV of $3145.13 is calculated by averaging the total items value, which is the amount of "order_amount" divided by the number of orders. However, this calculation does not account the number of items sold. To calculate the correct AOV, it should be the value of the total items divided by the total number of items sold, which is the amount of "order_amount" divided by the number of "total_items".
+From the information in the dataset, I can assume that the AOV of $3145.13 is calculated by averaging the total items value, 
+which is the amount of "order_amount" divided by the number of orders. However, this calculation does not account the number of items sold. 
+To calculate the correct AOV, it should be the value of the total items divided by the total number of items sold, 
+which is the amount of "order_amount" divided by the number of "total_items".
 
 
 2. What metric would you report for this dataset?
