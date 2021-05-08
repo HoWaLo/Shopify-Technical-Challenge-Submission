@@ -1,1 +1,0 @@
-# Shopify-Technical-Challenge-Submission
